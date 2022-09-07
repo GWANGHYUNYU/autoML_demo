@@ -146,10 +146,16 @@ pickle_data
 model_checkpoints_best
 
 # files
-# *.png
+*.png
 *.jpg
 events*
 *.npy
 *.h5
 *.pickle
 *.txt
+*.pdf
+
+*.ckpt
+*.json
+*.data-00000-of-00001
+*.index
